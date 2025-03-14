@@ -18,5 +18,5 @@ Tech Stack:
 
 For testing:
   1.  Clone the repo
-  2.  Run the comands from included "Database_Commands" file
+  2.  Run the comands from the included "Database_Commands" file
   3.  Run the project locally using XAMPP

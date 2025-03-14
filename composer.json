@@ -1,0 +1,17 @@
+{
+    "name": "emman/product_catalog",
+    "autoload": {
+        "psr-4": {
+             "App\\": "app/",
+             "App\\Config\\": "config/"
+
+        }
+    },
+    "authors": [
+        {
+            "name": "Emman-n",
+            "email": "enuneza937@gmail.com"
+        }
+    ],
+    "require": {}
+}
